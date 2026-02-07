@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int n;
-    cout << "Enter the size of the square pattern: ";
+    cout << "Enter the size of the hollow diamond pattern: ";
     cin >> n;
     // This will print the upper half of the hollow diamond pattern, including the middle line.
     for(int i = 1; i <= n; i++) {
